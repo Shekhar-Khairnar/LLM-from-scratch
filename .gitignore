@@ -139,7 +139,9 @@ llm-scratch/
 
 # Rope project settings
 .ropeproject
-
+*Attention mechanism.ipynb
+*LLM Architecture.ipynb
+*Tokenizer.ipynb
 # mkdocs documentation
 /site
 
