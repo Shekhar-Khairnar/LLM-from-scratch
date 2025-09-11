@@ -142,6 +142,9 @@ llm-scratch/
 *Attention mechanism.ipynb
 *LLM Architecture.ipynb
 *Tokenizer.ipynb
+*LLM_Lossfunction.ipynb
+*LLM Pretraining.ipynb
+*loss-plot.pdf
 # mkdocs documentation
 /site
 
