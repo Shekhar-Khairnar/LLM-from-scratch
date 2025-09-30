@@ -144,6 +144,7 @@ llm-scratch/
 *Tokenizer.ipynb
 *LLM_Lossfunction.ipynb
 *LLM Pretraining.ipynb
+*LLM Decoding Strategies.ipynb
 *loss-plot.pdf
 # mkdocs documentation
 /site
