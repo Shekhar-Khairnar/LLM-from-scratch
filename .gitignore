@@ -175,3 +175,8 @@ cython_debug/
 *model.pth
 *4.66
 *gpt2
+*train.csv
+*test.csv
+*sms_spam_collection.zip
+*validation.csv
+*sms_path_collection
