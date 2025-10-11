@@ -180,3 +180,5 @@ cython_debug/
 *sms_spam_collection.zip
 *validation.csv
 *sms_path_collection
+*.pdf
+*.pth
