@@ -51,7 +51,7 @@ The goal of this repo is to document a clear, hands-on understanding of how GPT-
 - **Framework:** PyTorch
 - **Notebook Environment:** Jupyter / Colab
 - **References:**
-  - [Build LLM from Scrtach series by Raj Abhijit Dandekar](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+  - [Build LLM from Scratch series by Raj Abhijit Dandekar](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
   - _Build a Large Language Model (From Scratch)_ by **Sebastian Raschka**
 
 ---
